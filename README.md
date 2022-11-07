@@ -16,3 +16,4 @@ This repository is a remastered version of Homekidd ws2812b controller
 ![](https://github.com/ParkerLLF/HomeKit-RGB-LightStrip-Controller/blob/main/PCB_Gerbar/NO%20logic%20IC%20Version/top.png)
 
 ![](https://github.com/ParkerLLF/HomeKit-RGB-LightStrip-Controller/blob/main/PCB_Gerbar/NO%20logic%20IC%20Version/bottom.png)
+![](https://github.com/ParkerLLF/HomeKit-RGB-LightStrip-Controller/blob/main/PCB_Gerbar/NO%20logic%20IC%20Version/3D%20previrw.png)
