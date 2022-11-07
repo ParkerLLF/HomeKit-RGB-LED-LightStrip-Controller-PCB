@@ -1,7 +1,7 @@
 # HomeKit-RGB-LightStrip-Controller
 This repository is a remastered version of Homekidd ws2812b controller
 
-**All PCB versions are TypeC interface**
+**All PCB versions are TypeC interface** and work well
 
 ## Building instruction via Homekidd[HomeKidd/Homekit-WS2812B-controller: ESP8266 based  Homekit controller for WS2812B lightstrips with WS2812FX support🌈 (github.com)](https://github.com/HomeKidd/Homekit-WS2812B-controller)
 
