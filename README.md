@@ -3,7 +3,7 @@ This repository is a remastered version of Homekidd ws2812b controller
 
 **All PCB versions are TypeC interface**
 
-## Building instruction via Homekidd
+## Building instruction via Homekidd[HomeKidd/Homekit-WS2812B-controller: ESP8266 based  Homekit controller for WS2812B lightstrips with WS2812FX support🌈 (github.com)](https://github.com/HomeKidd/Homekit-WS2812B-controller)
 
 ### The ESP12 and ESP-01 version
 
