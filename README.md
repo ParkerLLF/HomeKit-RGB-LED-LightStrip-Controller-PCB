@@ -3,14 +3,16 @@ This repository is a remastered version of Homekidd ws2812b controller
 
 **All PCB versions are TypeC interface**
 
+## Building instruction via Homekidd
+
 ### The ESP12 and ESP-01 version
 
-![](E:\mdimages\top.png)
+![](https://github.com/ParkerLLF/HomeKit-RGB-LightStrip-Controller/blob/main/PCB_Gerbar/ESP-12F%20and%20ESP01%20Version/top.png)
 
-![](E:\mdimages\bottom.png)
+![](https://github.com/ParkerLLF/HomeKit-RGB-LightStrip-Controller/blob/main/PCB_Gerbar/ESP-12F%20and%20ESP01%20Version/bottom.png)
 
 ### no logic IC version
 
-![](E:\mdimages\top-1667837418322-3.png)
+![](https://github.com/ParkerLLF/HomeKit-RGB-LightStrip-Controller/blob/main/PCB_Gerbar/NO%20logic%20IC%20Version/top.png)
 
-![](E:\mdimages\bottom-1667837425418-5.png)
+![](https://github.com/ParkerLLF/HomeKit-RGB-LightStrip-Controller/blob/main/PCB_Gerbar/NO%20logic%20IC%20Version/bottom.png)
